@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FileDedup"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ImgSplit">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/ImgSplit.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 ImgSplit"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ImgSplit/fast">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/ImgSplit.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 ImgSplit/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileDedup">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/FileDedup.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileDedup"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileDedup/fast">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/FileDedup.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileDedup/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Md5">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Md5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 Md5"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Md5/fast">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Md5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 Md5/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ImgSplit2">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/ImgSplit2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 ImgSplit2"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ImgSplit2/fast">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/ImgSplit2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 ImgSplit2/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dfs">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Dfs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dfs"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dfs/fast">
+				<Option output="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Dfs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/proj_clion/FileDedup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/cygwin64/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dfs/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/proj_clion/FileDedup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/blkid.h">
+			<Option target="FileDedup"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/dedup.c">
+			<Option target="FileDedup"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/dedup.h">
+			<Option target="FileDedup"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/dfs.cpp">
+			<Option target="Dfs"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/dfs.h">
+			<Option target="Dfs"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/hash.c">
+			<Option target="FileDedup"/>
+			<Option target="Test"/>
+			<Option target="Dfs"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/hash.h">
+			<Option target="FileDedup"/>
+			<Option target="Test"/>
+			<Option target="Dfs"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/hashtable.c">
+			<Option target="FileDedup"/>
+			<Option target="Test"/>
+			<Option target="Dfs"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/hashtable.h">
+			<Option target="FileDedup"/>
+			<Option target="Test"/>
+			<Option target="Dfs"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/img_split.cpp">
+			<Option target="ImgSplit"/>
+			<Option target="FileDedup"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/img_split.h">
+			<Option target="ImgSplit"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/img_split_new.cpp">
+			<Option target="ImgSplit2"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/img_split_new.h">
+			<Option target="ImgSplit2"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/libz.c">
+			<Option target="FileDedup"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/libz.h">
+			<Option target="FileDedup"/>
+			<Option target="Test"/>
+			<Option target="Dfs"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/log.c">
+			<Option target="ImgSplit"/>
+			<Option target="ImgSplit2"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/log.h">
+			<Option target="ImgSplit"/>
+			<Option target="ImgSplit2"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/md5.c">
+			<Option target="FileDedup"/>
+			<Option target="Md5"/>
+			<Option target="Test"/>
+			<Option target="Dfs"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/md5.h">
+			<Option target="FileDedup"/>
+			<Option target="Md5"/>
+			<Option target="Test"/>
+			<Option target="Dfs"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/md5test.cpp">
+			<Option target="Md5"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/partitions.c">
+			<Option target="FileDedup"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/test.c">
+			<Option target="FileDedup"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/undedup.c">
+			<Option target="FileDedup"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/util.cpp">
+			<Option target="ImgSplit"/>
+			<Option target="ImgSplit2"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/util.h">
+			<Option target="ImgSplit"/>
+			<Option target="ImgSplit2"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/xor.c">
+			<Option target="FileDedup"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/proj_clion/FileDedup/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

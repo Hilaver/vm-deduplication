@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc6a00ac-a69c-435b-8d75-b56bf1b72376" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1731534576">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="41" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="9" />
+          <entry key="project.open.time.22" value="15" />
+          <entry key="project.open.time.23" value="7" />
+          <entry key="project.open.time.24" value="3" />
+          <entry key="project.open.time.25" value="3" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="11" />
+          <entry key="c" value="34" />
+          <entry key="cpp" value="21" />
+          <entry key="h" value="77" />
+          <entry key="in" value="1" />
+          <entry key="tcc" value="1" />
+          <entry key="txt" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="11" />
+          <entry key="ObjectiveC" value="133" />
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Makefile" value="380" />
+          <entry key="c" value="6323" />
+          <entry key="cpp" value="18967" />
+          <entry key="h" value="1124" />
+          <entry key="txt" value="113" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="113" />
+          <entry key="Doxygen file" value="21" />
+          <entry key="ObjectiveC" value="26393" />
+          <entry key="PLAIN_TEXT" value="380" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="203102777">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="2" />
+          <entry key="c" value="1" />
+          <entry key="cmake" value="1" />
+          <entry key="cpp" value="3" />
+          <entry key="h" value="4" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="2" />
+          <entry key="ObjectiveC" value="8" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1459992164">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="c" value="2" />
+          <entry key="cpp" value="4" />
+          <entry key="h" value="6" />
+          <entry key="iostream" value="1" />
+          <entry key="system_error" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Makefile" value="36" />
+          <entry key="c" value="58" />
+          <entry key="cpp" value="388" />
+          <entry key="h" value="44" />
+          <entry key="txt" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="18" />
+          <entry key="ObjectiveC" value="490" />
+          <entry key="PLAIN_TEXT" value="36" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1523044002">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="155" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="155" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img_split_new.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4771">
+              <caret line="504" column="73" selection-start-line="504" selection-start-column="55" selection-end-line="504" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img_split.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/img_split_new.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dfs.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+              <folding>
+                <element signature="e#93#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>open src error</find>
+      <find>gethash</find>
+      <find>lh_strhash</find>
+      <find>g_htab_backet_nr</find>
+      <find>GetFragmentType</find>
+      <find>pFragDescr</find>
+      <find>fragment_type</find>
+      <find>auto_filter_dfs</find>
+      <find>GetMountedType</find>
+      <find>dfs_directory</find>
+      <find>fragment_simhash</find>
+      <find>AccumulateMd5</find>
+      <find>hash_create</find>
+      <find>equal_str</find>
+      <find>Md5Digest</find>
+      <find>AccumulateMd5ByFixedChunk</find>
+      <find>printf</find>
+      <find>simhash_arr</find>
+      <find>BACKET_SIZE</find>
+      <find>save img descriptor finish</find>
+      <find>global_fragment_nb</find>
+      <find>CalcSimhashByPy</find>
+      <find>is</find>
+      <find>ExecuteCMD</find>
+      <find>GetFragSimhash</find>
+      <find>boot_signature</find>
+      <find>fragment_file_info_path</find>
+      <find>GetFragSimhashByFixedChunk</find>
+      <find>ebr_sector_offset</find>
+      <find>boot_sector_offset</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>char</replace>
+      <replace>printf</replace>
+      <replace>unsigned char</replace>
+      <replace>uint8_t</replace>
+      <replace>Int2String</replace>
+      <replace>p_img_descr</replace>
+      <replace>p_img_descr-&gt;</replace>
+      <replace>p_frag_descr-&gt;</replace>
+      <replace>\t</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\Workplace_VisualStudio\FileDedup</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/libz.c" />
+        <option value="$PROJECT_DIR$/undedup.c" />
+        <option value="$PROJECT_DIR$/dedup.c" />
+        <option value="$PROJECT_DIR$/md5.cpp" />
+        <option value="$PROJECT_DIR$/md5c.cpp" />
+        <option value="$PROJECT_DIR$/misc_func.h" />
+        <option value="$PROJECT_DIR$/misc_func.cpp" />
+        <option value="$PROJECT_DIR$/md5c.h" />
+        <option value="$PROJECT_DIR$/md5c.c" />
+        <option value="$PROJECT_DIR$/xor.c" />
+        <option value="$PROJECT_DIR$/partitions.c" />
+        <option value="$PROJECT_DIR$/md5.c" />
+        <option value="$PROJECT_DIR$/md5.h" />
+        <option value="$PROJECT_DIR$/dedup.h" />
+        <option value="$PROJECT_DIR$/log.c" />
+        <option value="$PROJECT_DIR$/md5test.cpp" />
+        <option value="$PROJECT_DIR$/dfs.h" />
+        <option value="$PROJECT_DIR$/hashtable.h" />
+        <option value="$PROJECT_DIR$/hashtable.c" />
+        <option value="$PROJECT_DIR$/util.cpp" />
+        <option value="$PROJECT_DIR$/dfs.cpp" />
+        <option value="$PROJECT_DIR$/util.h" />
+        <option value="$PROJECT_DIR$/img_split.h" />
+        <option value="$PROJECT_DIR$/img_split.cpp" />
+        <option value="$PROJECT_DIR$/test.c" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/img_split_new.h" />
+        <option value="$PROJECT_DIR$/img_split_new.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>cppcheck</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Cppcheck</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FileDedup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileDedup" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/proj_clion/deduputil-1.4.1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Workplace_VisualStudio\FileDedup" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ImgSplit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ImgSplit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc6a00ac-a69c-435b-8d75-b56bf1b72376" name="Default Changelist" comment="" />
+      <created>1540455604290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540455604290</updated>
+      <workItem from="1540455606583" duration="4531000" />
+      <workItem from="1540515243726" duration="17661000" />
+      <workItem from="1540776133461" duration="8461000" />
+      <workItem from="1540792192029" duration="23000" />
+      <workItem from="1540792277889" duration="7661000" />
+      <workItem from="1540861135706" duration="3722000" />
+      <workItem from="1541034237281" duration="18608000" />
+      <workItem from="1541121108670" duration="3237000" />
+      <workItem from="1541129526604" duration="3588000" />
+      <workItem from="1541147321447" duration="1479000" />
+      <workItem from="1541644367981" duration="1200000" />
+      <workItem from="1541725878393" duration="8292000" />
+      <workItem from="1541990643505" duration="10983000" />
+      <workItem from="1542070474243" duration="2642000" />
+      <workItem from="1542330168660" duration="1298000" />
+      <workItem from="1543199665470" duration="372000" />
+      <workItem from="1543479693577" duration="3238000" />
+      <workItem from="1543539612714" duration="3730000" />
+      <workItem from="1543908126692" duration="613000" />
+      <workItem from="1543999902193" duration="1703000" />
+      <workItem from="1544068606868" duration="1566000" />
+      <workItem from="1544145579000" duration="574000" />
+      <workItem from="1544171363405" duration="1010000" />
+      <workItem from="1544408116280" duration="17717000" />
+      <workItem from="1544491394069" duration="33154000" />
+      <workItem from="1544576314421" duration="22412000" />
+      <workItem from="1544663775567" duration="13115000" />
+      <workItem from="1544752853059" duration="1196000" />
+      <workItem from="1545030121495" duration="13830000" />
+      <workItem from="1545095423362" duration="16665000" />
+      <workItem from="1545181360114" duration="1918000" />
+      <workItem from="1545274311053" duration="918000" />
+      <workItem from="1545354233394" duration="10642000" />
+      <workItem from="1545613220326" duration="21440000" />
+      <workItem from="1545700154764" duration="24125000" />
+      <workItem from="1545790427227" duration="1693000" />
+      <workItem from="1545872447997" duration="11216000" />
+      <workItem from="1545959189145" duration="23306000" />
+      <workItem from="1546046797194" duration="6324000" />
+      <workItem from="1546314217351" duration="598000" />
+      <workItem from="1546393817689" duration="26694000" />
+      <workItem from="1546477406287" duration="25932000" />
+      <workItem from="1546564164810" duration="810000" />
+      <workItem from="1546565856175" duration="8003000" />
+      <workItem from="1546822711453" duration="7168000" />
+      <workItem from="1546918923586" duration="896000" />
+      <workItem from="1547002951915" duration="717000" />
+      <workItem from="1547099005206" duration="4341000" />
+      <workItem from="1547168381486" duration="8705000" />
+      <workItem from="1547437590945" duration="4174000" />
+      <workItem from="1547530962584" duration="2796000" />
+      <workItem from="1547618860267" duration="1727000" />
+      <workItem from="1547688351439" duration="1239000" />
+      <workItem from="1572936093608" duration="231000" />
+      <workItem from="1572936343378" duration="232000" />
+      <workItem from="1573793632834" duration="3443000" />
+      <workItem from="1573797310440" duration="1434000" />
+      <workItem from="1574136236360" duration="5568000" />
+      <workItem from="1574148720180" duration="735000" />
+      <workItem from="1574230749472" duration="7417000" />
+      <workItem from="1574308011203" duration="4010000" />
+      <workItem from="1574398894674" duration="6610000" />
+      <workItem from="1582983532422" duration="53000" />
+      <workItem from="1582983611046" duration="243000" />
+      <workItem from="1582983871222" duration="6663000" />
+      <workItem from="1583224009748" duration="4740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="461042000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.53236246" visible="true" weight="0.15281501" />
+      <window_info id="Structure" order="1" sideWeight="0.46763754" side_tool="true" visible="true" weight="0.15281501" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26449788" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.12464589" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.16005665" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3385269" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="make" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/libz.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libz.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/undedup.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="155" column="16" selection-start-line="155" selection-start-column="16" selection-end-line="155" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md5.cpp" />
+    <entry file="file://$PROJECT_DIR$/misc_func.h" />
+    <entry file="file://$PROJECT_DIR$/misc_func.c" />
+    <entry file="file://$PROJECT_DIR$/partitions.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blkid.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/cygwin64/lib/gcc/x86_64-pc-cygwin/6.4.0/include/limits.h" />
+    <entry file="file://D:/cygwin64/usr/include/sys/unistd.h" />
+    <entry file="file://D:/cygwin64/usr/include/cygwin/config.h" />
+    <entry file="file://D:/cygwin64/usr/include/stdlib.h" />
+    <entry file="file://D:/cygwin64/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/bits/basic_string.h" />
+    <entry file="file://D:/cygwin64/usr/include/sys/_default_fcntl.h" />
+    <entry file="file://D:/cygwin64/usr/include/sys/types.h" />
+    <entry file="file://D:/cygwin64/usr/include/sys/_types.h" />
+    <entry file="file://$PROJECT_DIR$/hash.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/cygwin64/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/bits/basic_string.tcc" />
+    <entry file="file://D:/cygwin64/usr/include/sys/stat.h" />
+    <entry file="file://D:/cygwin64/usr/include/string.h" />
+    <entry file="file://D:/cygwin64/usr/include/sys/_stdint.h" />
+    <entry file="file://D:/cygwin64/usr/include/cygwin/stat.h" />
+    <entry file="file://$PROJECT_DIR$/hashtable.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="218" column="5" selection-start-line="218" selection-start-column="5" selection-end-line="218" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xor.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/cygwin64/lib/gcc/x86_64-pc-cygwin/6.4.0/include/stddef.h" />
+    <entry file="file://$PROJECT_DIR$/md5test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md5.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="90" column="10" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dedup.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md5.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8463">
+          <caret line="403" column="4" selection-start-line="403" selection-start-column="4" selection-end-line="403" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hashtable.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dedup.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5859">
+          <caret line="279" column="10" selection-start-line="279" selection-start-column="10" selection-end-line="279" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/cygwin64/usr/include/sys/dirent.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/software/minGW/include/io.h" />
+    <entry file="file://E:/cygwin64/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/bits/ios_base.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5350">
+          <caret line="214" column="73" selection-start-line="214" selection-start-column="73" selection-end-line="214" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwin64/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/system_error">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3750">
+          <caret line="150" column="30" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwin64/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/iostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2450">
+          <caret line="98" column="72" selection-start-line="98" selection-start-column="72" selection-end-line="98" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3100">
+          <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfs.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9500">
+          <caret line="380" selection-start-line="380" selection-end-line="380" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_split.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfs.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="e#93#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_split.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7582">
+          <caret line="424" column="116" selection-start-line="423" selection-start-column="12" selection-end-line="424" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_split_new.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4771">
+          <caret line="504" column="73" selection-start-line="504" selection-start-column="55" selection-end-line="504" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_split_new.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

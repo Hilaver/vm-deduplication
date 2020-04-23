@@ -1,0 +1,3 @@
+C:\Users\hilary\.CLion2018.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/g/毕业论文相关/实验代码及数据/FileDedup
+CMake Error: The source directory "/cygdrive/g/姣曚笟璁烘枃鐩稿叧/瀹為獙浠ｇ爜鍙婃暟鎹�/FileDedup" does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.
